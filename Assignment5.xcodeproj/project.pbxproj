@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		39E026511AD74C2D00626DC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026501AD74C2D00626DC5 /* main.m */; };
+		39E026581AD74C4600626DC5 /* Question1.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026571AD74C4600626DC5 /* Question1.m */; };
+		39E0265A1AD74C6600626DC5 /* Question2.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026591AD74C6600626DC5 /* Question2.m */; };
+		39E0265C1AD74C7C00626DC5 /* Question3.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E0265B1AD74C7C00626DC5 /* Question3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		39E0264D1AD74C2D00626DC5 /* Assignment5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Assignment5; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E026501AD74C2D00626DC5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		39E026571AD74C4600626DC5 /* Question1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question1.m; sourceTree = "<group>"; };
+		39E026591AD74C6600626DC5 /* Question2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question2.m; sourceTree = "<group>"; };
+		39E0265B1AD74C7C00626DC5 /* Question3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				39E026501AD74C2D00626DC5 /* main.m */,
+				39E026571AD74C4600626DC5 /* Question1.m */,
+				39E026591AD74C6600626DC5 /* Question2.m */,
+				39E0265B1AD74C7C00626DC5 /* Question3.m */,
 			);
 			path = Assignment5;
 			sourceTree = "<group>";
@@ -119,6 +128,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				39E026511AD74C2D00626DC5 /* main.m in Sources */,
+				39E0265C1AD74C7C00626DC5 /* Question3.m in Sources */,
+				39E0265A1AD74C6600626DC5 /* Question2.m in Sources */,
+				39E026581AD74C4600626DC5 /* Question1.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
