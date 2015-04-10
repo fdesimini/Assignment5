@@ -7,3 +7,16 @@
 //
 
 #import <Foundation/Foundation.h>
+
+// Given the list in exercise 2, use the following syntax to rewrite your list in this format:
+// [instance method];
+
+/*
+
+[myMacbook playGames]
+[myMacbook checkEmails]
+[myMacbook buildApps]
+[myMacbook watchMovies]
+[myMacbook readNews]
+
+*/

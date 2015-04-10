@@ -11,6 +11,9 @@
 		39E026581AD74C4600626DC5 /* Question1.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026571AD74C4600626DC5 /* Question1.m */; };
 		39E0265A1AD74C6600626DC5 /* Question2.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026591AD74C6600626DC5 /* Question2.m */; };
 		39E0265C1AD74C7C00626DC5 /* Question3.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E0265B1AD74C7C00626DC5 /* Question3.m */; };
+		39E0265E1AD7543800626DC5 /* Question4.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E0265D1AD7543800626DC5 /* Question4.m */; };
+		39E026601AD754CE00626DC5 /* Question5.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E0265F1AD754CE00626DC5 /* Question5.m */; };
+		39E026621AD7564F00626DC5 /* Question6.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026611AD7564F00626DC5 /* Question6.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +34,9 @@
 		39E026571AD74C4600626DC5 /* Question1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question1.m; sourceTree = "<group>"; };
 		39E026591AD74C6600626DC5 /* Question2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question2.m; sourceTree = "<group>"; };
 		39E0265B1AD74C7C00626DC5 /* Question3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question3.m; sourceTree = "<group>"; };
+		39E0265D1AD7543800626DC5 /* Question4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question4.m; sourceTree = "<group>"; };
+		39E0265F1AD754CE00626DC5 /* Question5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question5.m; sourceTree = "<group>"; };
+		39E026611AD7564F00626DC5 /* Question6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question6.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +73,9 @@
 				39E026571AD74C4600626DC5 /* Question1.m */,
 				39E026591AD74C6600626DC5 /* Question2.m */,
 				39E0265B1AD74C7C00626DC5 /* Question3.m */,
+				39E0265D1AD7543800626DC5 /* Question4.m */,
+				39E0265F1AD754CE00626DC5 /* Question5.m */,
+				39E026611AD7564F00626DC5 /* Question6.m */,
 			);
 			path = Assignment5;
 			sourceTree = "<group>";
@@ -128,9 +137,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				39E026511AD74C2D00626DC5 /* main.m in Sources */,
+				39E026601AD754CE00626DC5 /* Question5.m in Sources */,
 				39E0265C1AD74C7C00626DC5 /* Question3.m in Sources */,
+				39E026621AD7564F00626DC5 /* Question6.m in Sources */,
 				39E0265A1AD74C6600626DC5 /* Question2.m in Sources */,
 				39E026581AD74C4600626DC5 /* Question1.m in Sources */,
+				39E0265E1AD7543800626DC5 /* Question4.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
