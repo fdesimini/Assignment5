@@ -29,7 +29,7 @@ int main(int argc, const char * argv[]) {
         [cartesianCoord setX:10];
         
         //Display coordinates of x,y
-        
+        [cartesianCoord x];
         NSLog(@"the x-coord is: %i, the y-coord is: i:%i", [cartesianCoord x], [cartesianCoord y]);
         
         

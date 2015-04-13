@@ -13,8 +13,7 @@
 //- (void) print;
 - (void) setX: (int) valueOfX;
 - (void) setY: (int) valueOfY;
-- (int) x;
-- (int) y;
-
+- (int)x;
+- (int)y;
 
 @end

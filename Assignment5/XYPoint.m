@@ -15,12 +15,6 @@
     int y;
 }
 
-/*
-- (void) print
-{
-    NSLog(@"%i is x coordinate, %i is the y coordinate", coordX, coordY);
-}
-*/
 - (void) setX: (int) valueOfX
 {
 
@@ -32,5 +26,13 @@
     y = valueOfY;
 }
 
+- (int)x
+{
+    return x;
+}
+
+- (int)y{
+    return y;
+}
 
 @end
