@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		39D471761ADB345100D1CE5A /* XYPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 39D471751ADB345100D1CE5A /* XYPoint.m */; };
 		39E026511AD74C2D00626DC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026501AD74C2D00626DC5 /* main.m */; };
 		39E026581AD74C4600626DC5 /* Question1.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026571AD74C4600626DC5 /* Question1.m */; };
 		39E0265A1AD74C6600626DC5 /* Question2.m in Sources */ = {isa = PBXBuildFile; fileRef = 39E026591AD74C6600626DC5 /* Question2.m */; };
@@ -29,6 +30,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		39D471741ADB345100D1CE5A /* XYPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYPoint.h; sourceTree = "<group>"; };
+		39D471751ADB345100D1CE5A /* XYPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYPoint.m; sourceTree = "<group>"; };
 		39E0264D1AD74C2D00626DC5 /* Assignment5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Assignment5; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E026501AD74C2D00626DC5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		39E026571AD74C4600626DC5 /* Question1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Question1.m; sourceTree = "<group>"; };
@@ -69,6 +72,8 @@
 		39E0264F1AD74C2D00626DC5 /* Assignment5 */ = {
 			isa = PBXGroup;
 			children = (
+				39D471741ADB345100D1CE5A /* XYPoint.h */,
+				39D471751ADB345100D1CE5A /* XYPoint.m */,
 				39E026501AD74C2D00626DC5 /* main.m */,
 				39E026571AD74C4600626DC5 /* Question1.m */,
 				39E026591AD74C6600626DC5 /* Question2.m */,
@@ -143,6 +148,7 @@
 				39E0265A1AD74C6600626DC5 /* Question2.m in Sources */,
 				39E026581AD74C4600626DC5 /* Question1.m in Sources */,
 				39E0265E1AD7543800626DC5 /* Question4.m in Sources */,
+				39D471761ADB345100D1CE5A /* XYPoint.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +262,7 @@
 				39E026561AD74C2D00626DC5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
